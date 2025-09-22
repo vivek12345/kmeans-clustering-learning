@@ -13,11 +13,12 @@ The goal of this repo is to:
 
 ## 📂 Repository Structure
 
-├── data/         # Sample datasets (if any)
-├── notebooks/    # Jupyter notebooks with experiments
-├── images/       # Saved plots of clusters
-├── src/          # Python scripts for reusable code
-└── README.md     # Project documentation
+- `data/` — Sample datasets (if any)
+- `notebooks/` — Jupyter notebooks with experiments
+- `images/` — Saved plots of clusters
+- `src/` — Python scripts for reusable code
+- `README.md` — Project documentation
+
 
 
 
